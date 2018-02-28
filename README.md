@@ -1,0 +1,3 @@
+# ReusedNavigationPage
+
+在NavigationController下push到重复的页面或者一个单利页面造成的崩溃问题处理。
